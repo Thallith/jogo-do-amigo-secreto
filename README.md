@@ -1,3 +1,4 @@
 <h1 align="center"> Jogo do amigo secreto </h1>
 
-<img width="1477" height="994" alt="Foto inicial do jogo" src="https://github.com/user-attachments/assets/23f9937b-1d7e-40e3-a508-b88303599134" />
+
+<img width="947" height="968" alt="capa do jogo do amigo secreto" src="https://github.com/user-attachments/assets/966ddecf-1109-413b-8645-7ae8433db2ac" />
