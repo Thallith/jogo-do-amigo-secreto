@@ -49,6 +49,10 @@ A proposta é simular um sorteio de amigo secreto de forma prática e divertida.
 
 https://github.com/user-attachments/assets/d0af1f80-c8c6-41fb-8d28-8a9be188e3c1
 
+<br>
+
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
 
 
 
