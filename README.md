@@ -1,5 +1,8 @@
 <h1 align="center"> Jogo do amigo secreto </h1>
 
+<img width="1051" height="732" alt="image" src="https://github.com/user-attachments/assets/31a408d7-ae53-4167-939a-842d0a4520a8" />
+
+
 <h2>Descrição do projeto</h2>
 Este é um projeto simples de um Jogo do Amigo Secreto, desenvolvido com base nos conhecimentos adquiridos nos cursos da Alura.
 A proposta é simular um sorteio de amigo secreto de forma prática e divertida.
@@ -19,6 +22,7 @@ A proposta é simular um sorteio de amigo secreto de forma prática e divertida.
 :heavy_check_mark: `Funcionalidade 5:` Impede o sorteio se não houver nenhum nome na lista.
 
 :heavy_check_mark: `Funcionalidade 6:` Permite adicionar quantos nomes o usuário quiser antes do sorteio.
+
 
 
 ## Como funciona
@@ -41,9 +45,3 @@ A proposta é simular um sorteio de amigo secreto de forma prática e divertida.
 <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/b1a858a5-12f5-415a-87f4-25c410f09136" />
 
 
-
-
- 
-
-
-<img width="947" height="968" alt="capa do jogo do amigo secreto" src="https://github.com/user-attachments/assets/966ddecf-1109-413b-8645-7ae8433db2ac" />
