@@ -19,15 +19,19 @@ A proposta é simular um sorteio de amigo secreto de forma prática e divertida.
 :heavy_check_mark: `Funcionalidade 6:` Permite adicionar quantos nomes o usuário quiser antes do sorteio.
 
 ## Como funciona
-` O usuário digita o nome de um amigo no campo de texto.
-` Ao clicar no botão "Adicionar", o nome é salvo em um array e mostrado na tela.
-` Após adicionar os participantes, o usuário clica no botão "Sortear Amigo".
-` O sistema seleciona aleatoriamente um nome da lista e exibe como resultado.
-` O sorteio só funciona se houver pelo menos um nome na lista.
+
+- `` O usuário digita o nome de um amigo no campo de texto.``
+- `` Ao clicar no botão "Adicionar", o nome é salvo em um array e mostrado na tela.``
+- ``Após adicionar os participantes, o usuário clica no botão "Sortear Amigo".``
+- `` O sistema seleciona aleatoriamente um nome da lista e exibe como resultado.``
+- `` O sorteio só funciona se houver pelo menos um nome na lista.``
+
 
 ## Ferramentas utilizadas
-![html5](https://github.com/user-attachments/assets/573fdc47-bbcc-4f4b-abb6-d1452271f6ef)<svg role="img" width='7px' viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"></svg>
 
+- ``HTML5``  <img width="60" height="640" alt="javascript" src="https://github.com/user-attachments/assets/5e73ef85-9694-44dd-97a7-dfa5cdf4e084" />
+- ``CSS``
+- ``JavaScript``
 
 
 <img width="947" height="968" alt="capa do jogo do amigo secreto" src="https://github.com/user-attachments/assets/966ddecf-1109-413b-8645-7ae8433db2ac" />
