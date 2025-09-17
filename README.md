@@ -1,6 +1,4 @@
-<h1 align="center"> :
-
-🎁 Jogo do amigo secreto </h1>
+<h1 align="center"> 🎁 Jogo do amigo secreto </h1>
 
 <img width="1051" height="732" alt="image" src="https://github.com/user-attachments/assets/31a408d7-ae53-4167-939a-842d0a4520a8" />
 
