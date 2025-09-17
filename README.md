@@ -36,9 +36,9 @@ A proposta é simular um sorteio de amigo secreto de forma prática e divertida.
 - ``CSS``
 - ``JavaScript``
   
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/aa7b9b1f-f3ea-42e6-ae77-823e1f8a82c0" />
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/b4f1dd08-87c0-4f73-8978-2b71e962d9de" />
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/b1a858a5-12f5-415a-87f4-25c410f09136" />
+<img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/aa7b9b1f-f3ea-42e6-ae77-823e1f8a82c0" />
+<img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/b4f1dd08-87c0-4f73-8978-2b71e962d9de" />
+<img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/b1a858a5-12f5-415a-87f4-25c410f09136" />
 
 
 
