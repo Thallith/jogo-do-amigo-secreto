@@ -7,7 +7,7 @@
 Este é um projeto simples de um Jogo do Amigo Secreto, desenvolvido com base nos conhecimentos adquiridos nos cursos da Alura.
 A proposta é simular um sorteio de amigo secreto de forma prática e divertida.
 
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## 🔨 Funcionalidades do projeto
 
