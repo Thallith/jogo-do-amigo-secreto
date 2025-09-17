@@ -9,7 +9,7 @@ A proposta é simular um sorteio de amigo secreto de forma prática e divertida.
 
 <br><br>
 
-## 🔨 Funcionalidades do projeto
+## ✍️ Funcionalidades do projeto
 
 :heavy_check_mark: `Funcionalidade 1: ` Permite adicionar nomes de amigos à lista.
 
@@ -25,7 +25,7 @@ A proposta é simular um sorteio de amigo secreto de forma prática e divertida.
 
 <br>
 
-## Como funciona
+## 💡 Como funciona
 
 - `` O usuário digita o nome de um amigo no campo de texto.``
 - `` Ao clicar no botão "Adicionar", o nome é salvo em um array e mostrado na tela.``
@@ -35,7 +35,7 @@ A proposta é simular um sorteio de amigo secreto de forma prática e divertida.
   
  <br>
 
-## Ferramentas utilizadas
+## 🔨 Ferramentas utilizadas
 
 - ``HTML5``  
 - ``CSS``
