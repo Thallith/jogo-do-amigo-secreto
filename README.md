@@ -45,3 +45,11 @@ A proposta é simular um sorteio de amigo secreto de forma prática e divertida.
 <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/b1a858a5-12f5-415a-87f4-25c410f09136" />
 
 
+
+https://github.com/user-attachments/assets/d0af1f80-c8c6-41fb-8d28-8a9be188e3c1
+
+
+
+
+
+
